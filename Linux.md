@@ -6,38 +6,38 @@ Q:What year was the first release of linux operating system?
 A:1991
 
 Task: Running Your First few Commands.
-Q:If we wanted to output the text "TryHackMe", what would our command be?
-A:Type command "echo TryHackMe" to print in the terminal.
+ Q:If we wanted to output the text "TryHackMe", what would our command be?
+ A:Type command "echo TryHackMe" to print in the terminal.
 
-Q:What is the username of who you're logged in as on your deployed Linux machine?
-A:Type in your terminal "whoami", then you will find the name of the user you logged in with.
+ Q:What is the username of who you're logged in as on your deployed Linux machine?
+ A:Type in your terminal "whoami", then you will find the name of the user you logged in with.
 
  Task: Interacting With the Filesystem.
-Q:On the Linux machine that you deploy, how many folders are there?
-A:In order to solve this question we need to use command “ls”, then we will see how many folders in the directory, which is 4 folders.
+ Q:On the Linux machine that you deploy, how many folders are there?
+ A:In order to solve this question we need to use command “ls”, then we will see how many folders in the directory, which is 4 folders.
 
-Q:Which directory contains a file?
-A:WE need to use the command “cd folder4”, then command “ls” we will find a .txt file.
+ Q:Which directory contains a file?
+ A:WE need to use the command “cd folder4”, then command “ls” we will find a .txt file.
 
-Q:What is the contents of this file?
-A:We use command "ls" and "cd" to select the directory to find the text file in the following directory "/home/tryhackme/folder4".
+ Q:What is the contents of this file?
+ A:We use command "ls" and "cd" to select the directory to find the text file in the following directory "/home/tryhackme/folder4".
 
-Task 6:Searching for Files.
-Q:Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag?
-A:Using command "grep "THM"" to search in the entities  any thing has "THM".
+ Task 6:Searching for Files.
+ Q:Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag?
+ A:Using command "grep "THM"" to search in the entities  any thing has "THM".
 
-Task 7:An Introduction to Shell Operators
-Q:If we wanted to run a command in the background, what operator would we want to use?
-A:Command "&".
+ Task 7:An Introduction to Shell Operators
+ Q:If we wanted to run a command in the background, what operator would we want to use?
+ A:Command "&".
 
-Q:If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be?
-A:echo password123 > passwords
+ Q:If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be?
+ A:echo password123 > passwords
 
-Q:Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be?
-A:echo tryhackme >> passwords.
-
-
-Linux Fundamentals#2
+ Q:Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be?
+ A:echo tryhackme >> passwords.
+ 
+  
+ Linux Fundamentals#2
  Task 3:Introduction to Flags and Switches.
  Q:Whast directional arrow key would we use to anvigate down the manual page?
  WE would use down arrow to review more about tha manual.
@@ -77,4 +77,17 @@ Linux Fundamentals#2
  Q:Name the home directory of the root user?
  A:/root. 
 
+ Linux Fundamentals Part#3
+ Task 3:Terminal Text Editors.
+ Q:Edit "task3" located in "tryhackme"'s home directory using Nano. What is the flag?
+ A:We need to use command "nano task3", then we will find the flag "THM{TEXT_EDITORS}".
 
+ Task 4:General/Useful Utilities.
+ Q:What are the contents?
+ A:
+ 1. We need to start firstly python websever by command"python3 -m  http.server".
+ 2. We need to us this command in another terminal "wget http://MACHINE_IP:8000/.flag.txt" to download the file ".flag.text".  
+ 3. We need to "cat .flag", we will find the flag in the file"THM{WGET_WEBSERVER}".
+
+ Task 5:Processes 101.
+ Q:
