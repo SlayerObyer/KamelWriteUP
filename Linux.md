@@ -77,12 +77,12 @@ Task: Running Your First few Commands.
  Q:Name the home directory of the root user?
  A:/root. 
 
- Linux Fundamentals Part#3
- Task 3:Terminal Text Editors.
+ **Linux Fundamentals Part#3**
+ **Task 3:Terminal Text Editors.**
  Q:Edit "task3" located in "tryhackme"'s home directory using Nano. What is the flag?
  A:We need to use command "nano task3", then we will find the flag "THM{TEXT_EDITORS}".
 
- Task 4:General/Useful Utilities.
+ **Task 4:General/Useful Utilities.**
  Q:What are the contents?
  A:
  1. We need to start firstly python websever by command"python3 -m  http.server".
