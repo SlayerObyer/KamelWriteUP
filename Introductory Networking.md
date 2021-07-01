@@ -10,9 +10,13 @@
 ### Q3:In which layer would data be formatted in preparation for transmission?
    A:3
 ### Q4:Which layer transmits and receives data?
+
     A:1
+
 ### Q5:Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format?
+    
     A:6
+
 ### Q6:Which layer tracks communications between the host and receiving computers? 
     A:5
 ### Q7:Which layer accepts communication requests from applications? 
@@ -57,3 +61,7 @@
     A:SYN/ACK
 ### Q:What is the short name for the "Acknowledgement" segment in the three-way handshake?
     A:ACK
+
+## Task 5:Networking Tools Ping
+
+###
