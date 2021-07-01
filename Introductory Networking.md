@@ -9,7 +9,7 @@
 ### Q3:In which layer would data be formatted in preparation for transmission?
     A:3
 ### Q4:Which layer transmits and receives data?
-A:1
+    A:1
 ### Q5:Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format? 
     A:6
 ### Q6:Which layer tracks communications between the host and receiving computers? 
