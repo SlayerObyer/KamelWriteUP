@@ -98,7 +98,7 @@ Task: Running Your First few Commands.
 
  Q:Locate the process that is running on the deployed instance (MACHINE_IP). What flag is given?
  A:
- 1. Type command "ps aux | less".
+ 1. Type command "ps aux|less".
  2. Then we will find THM{PROCESSES}.
 
  Q:What command would we use to stop the service "myservice"?
