@@ -110,7 +110,7 @@ Task: Running Your First few Commands.
  Q:What command would we use to bring a previously backgrounded process back to the foreground?
  A:"fg".
 
- # H1 **Task 6:Maintaining Your System: Automation.**
+ # **Task 6:Maintaining Your System: Automation.**
  Q:When will the crontab on the deployed instance (MACHINE_IP) run?
  A:@reboot.
 
