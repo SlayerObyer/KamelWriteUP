@@ -12,7 +12,8 @@ Rooms
 ## [Linux](./Linux.html).
 ## [Introductory](./IntroductoryNetworking.html).
 ## [Windows](./Windows.html).
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
