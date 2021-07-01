@@ -7,8 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 
-Rooms 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+# Rooms 
 
 [Linux](./Linux.html).
 [Introductory](./IntroductoryNetworking.md).
