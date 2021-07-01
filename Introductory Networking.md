@@ -76,5 +76,37 @@ A:-v
 
 ## Task 6:Networking Tools Traceroute.
 
-### Q:
+### Q:What switch would you use to specify an interface when using Traceroute?
+A:-i.
+### Q:What switch would you use if you wanted to use TCP SYN requests when tracing the route?
+A:-T
+### Q:[Lateral Thinking] Which layer of the TCP/IP model will traceroute run on by default (Windows)?
+A:Internet
 
+## Task 7:Networking Tools WHOIS.
+
+### Q:What is the registrant postal code for facebook.com?
+A:94025
+### Q:When was the facebook.com domain first registered?
+A:29/03/1997
+### Q:Which city is the registrant based in?
+A:Redmond
+### Q:[OSINT] What is the name of the golf course that is near the registrant address for microsoft.com?
+A:Bellevue Golf Course
+### Q:What is the registered Tech Email for microsoft.com?
+A:msnhst@microsoft.com
+
+## Task 8:Networking Tools Dig
+
+### Q1:What is DNS short for?
+A:Domain Name System
+### Q2:What is the first type of DNS server your computer would query when you search for a domain?
+A:Recursive
+### Q3:What type of DNS server contains records specific to domain extensions (i.e. .com, .co.uk*, etc)*? Use the long version of the name.
+A:Top-Level Domain
+### Q4:Where is the very first place your computer would look to find the IP address of a domain?
+A:Local Cache
+### Q5:[Research] Google runs two public DNS servers. One of them can be queried with the IP 8.8.8.8, what is the IP address of the other one?
+A:8.8.4.4
+### Q5:If a DNS query has a TTL of 24 hours, what number would the dig query show?
+A:86400
