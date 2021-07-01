@@ -77,6 +77,16 @@ A:
 2. Then wwwroot
 3. Answer .jsp
 
+## Q13:What was the last port the attacker opened?
+A:
+1. Go to Windows FireWall.
+2. Check the Inound Rules.
+3. You will find outside connection for the development Properties.
+4. Check the port
+5. 1337.
+
+## Q14:Check for DNS poisoning, what site was targeted?
+A: google.com
 
 
 
