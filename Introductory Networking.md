@@ -59,4 +59,22 @@ A:ACK
 
 ## Task 5:Networking Tools Ping
 
-###
+### Q:What command would you use to ping the bbc.co.uk website?
+A:ping bbc.co.uk
+
+### Q:Ping muirlandoracle.co.uk What is the IPv4 address?
+A:217.160.0.152
+
+### Q:What switch lets you change the interval of sent ping requests?
+A:-i
+
+### Q:What switch would allow you to restrict requests to IPv4?
+A:-4
+
+### Q:What switch would give you a more verbose output?
+A:-v
+
+## Task 6:Networking Tools Traceroute.
+
+### Q:
+
