@@ -1,9 +1,9 @@
 
-**#Kali linux rooms**
+# Kali linux rooms
 <span style="color: red;">Linux Fundementals#1</span> 
 Task: A Bit of Background on Linux.
 Q:What year was the first release of linux operating system?
-A:1991
+A:1991.
 
 Task: Running Your First few Commands.
  Q:If we wanted to output the text "TryHackMe", what would our command be?
