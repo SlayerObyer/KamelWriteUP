@@ -4,19 +4,14 @@
 
 ### Q1:Which layer would choose to send data over TCP or UDP?
    A:4
-
-### **Q2:Which layer checks received packets to make sure that they haven't been corrupted?**  
+### Q2:Which layer checks received packets to make sure that they haven't been corrupted?
    A:2
 ### Q3:In which layer would data be formatted in preparation for transmission?
-   A:3
+    A:3
 ### Q4:Which layer transmits and receives data?
-
-    A:1
-
-### Q5:Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format?
-    
+A:1
+### Q5:Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format? 
     A:6
-
 ### Q6:Which layer tracks communications between the host and receiving computers? 
     A:5
 ### Q7:Which layer accepts communication requests from applications? 
