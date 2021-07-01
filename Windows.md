@@ -3,6 +3,6 @@
 >===============
 
 ## Q1:Whats the version and year of the windows machine?
-1. Firstly we wo 
+1. Firstly we would 
 
 

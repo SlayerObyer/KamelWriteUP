@@ -24,10 +24,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Linux](./Linux.html)
-[Introductory](./Introductory Networking.html)
-[Windows](./Windows.html)
-[Link](url) and ![Image](src)
+
+[Link](./Windows.html) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -42,3 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 **Task 1: Introduction**
 - In this task introduces the Linux as an operating system just like mac and windows.
+
+[Linux](./Linux.html)
+[Introductory](./Introductory Networking.html)
+[Windows](./Windows.html)
