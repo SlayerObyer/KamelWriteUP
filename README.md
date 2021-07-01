@@ -10,7 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+[Linux](./Linux.html)
+[Introductory](./Introductory Networking.html)
+[Windows](./Windows.html)
 # Header 1
 ## Header 2
 ### Header 3
@@ -38,5 +40,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 **Task 1: Introduction**
 - In this task introduces the Linux as an operating system just like mac and windows.
-[Linux](./Linux.html)
-[Introductory](./Introductory Networking.html)
