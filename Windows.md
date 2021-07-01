@@ -22,12 +22,47 @@ A:
 2. GO to the tab "HKEY_LOCAL_MACHINE" ,"MICROSOFT" ,"WINDOWS" ,"CURRENT VERSION" ,"RUN" .
 3. You willl find the script that has the IP Adress"10.34.2.3".
 
-## Q5:Answer format: username1, username2
+## Q5:What two accounts had administrative privileges (other than the Administrator user)?
 A:By using "net user" command you will "Jenny ,Guest ".
 
+## Q6:Whats the name of the scheduled task that is malicous?
+A:
+1. Open Task Scheduler.
+2. Check every tab .
+3. Open "clean file system".
+4. Check the Trigger and The Action tabs.
 
 
+## Q6:What file was the task trying to run daily?
+A:
+1. Open Task Scheduler.
+2. Check every tab .
+3. Open "nc.ps1".
+4. Check the Trigger and The Action tabs.
 
+## Q7:What port did this file listen locally for?
+A:
+1. As we did before in the previous question in"Task scheduler".
+2. Check clean file system.
+3. Check Action tab.
+4. You will find the port 1348.
+
+## Q8:At what date did the compromise take place?
+A:
+1. Open Task Scheduler.
+2. Choose "Game Over".
+3. Check Triggers tab 
+4. Answer 3/2/2019.
+
+## Q9:At what time did Windows first assign special privileges to a new logon?
+A:
+1. Open Viewer.
+2. Use filer by date.
+3. 2/13/2019
+
+## Q10:What tool was used to get Windows passwords?
+
+A:mimikatz.
 
 
 
