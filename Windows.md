@@ -64,5 +64,19 @@ A:
 
 A:mimikatz.
 
+## Q11:What was the attackers external control and command servers IP??
+A:
+1. C:\\Windows\Systeem32\drivers\etc
+2. Check the text file and open it.
+3. Chcek the ip addresses you will find it not reasnoable.
+4. The answer "76.32.97.132".
+
+## Q12:What was the extension name of the shell uploaded via the servers website?
+A:
+1. Go to "C" then inetpub.
+2. Then wwwroot
+3. Answer .jsp
+
+
 
 
