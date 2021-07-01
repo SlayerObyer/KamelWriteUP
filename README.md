@@ -7,6 +7,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 
+Rooms 
+
+## [Linux](./Linux.html).
+## [Introductory](./IntroductoryNetworking.html).
+## [Windows](./Windows.html).
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
@@ -24,9 +31,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Linux](./Linux.html).
-[Introductory](./IntroductoryNetworking.html).
-[Windows](./Windows.html).
+
+
 
 [Link]() and ![Image](src)
 ```
