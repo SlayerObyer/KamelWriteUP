@@ -27,5 +27,33 @@
     A:udp
 
 ## Task3:Encapsulation
-    
 
+### Q:How would you refer to data at layer 2 of the encapsulation process (with the OSI model)?
+    A:Frames
+### Q:How would you refer to data at layer 4 of the encapsulation process (with the OSI model), if the UDP protocol has been selected?
+    A:Datagrams
+### Q:What process would a computer perform on a received message?
+    A:De-encapsulation
+### Q:Which is the only layer of the OSI model to add a trailer during encapsulation? 
+    A:Data Link
+### Q:Does encapsulation provide an extra layer of security (Aye/Nay)? 
+    A:Aye
+
+## Task 4:The TCP/IP Model    
+
+### Q:Which model was introduced first, OSI or TCP/IP?
+    A:TCP/IP
+### Q:Which layer of the TCP/IP model covers the functionality of the Transport layer of the OSI model (Full Name)?
+    A:Application
+### Q:The Network Interface layer of the TCP/IP model covers the functionality of two layers in the OSI model. These layers are Data Link, and?.. (Full Name)?
+    A:Physical
+### Q:Which layer of the TCP/IP model handles the functionality of the OSI network layer?
+    A:Internet
+### Q:What kind of protocol is TCP?
+    A:Connection-based
+### Q:What is SYN short for?
+    A:Synchronise
+### Q:What is the second step of the three way handshake?
+    A:SYN/ACK
+### Q:What is the short name for the "Acknowledgement" segment in the three-way handshake?
+    A:ACK
