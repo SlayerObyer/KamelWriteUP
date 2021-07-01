@@ -56,3 +56,4 @@ A:
 A:
 1. Open john the ripper.
 2. Use this Command "/usr/share/john/ssh2john.py [downloaded file location] > [new file name]"
+3. john [new file name] --worldlist=[rockyou.txt file location].
