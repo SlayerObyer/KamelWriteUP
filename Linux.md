@@ -89,5 +89,33 @@ Task: Running Your First few Commands.
  2. We need to us this command in another terminal "wget http://MACHINE_IP:8000/.flag.txt" to download the file ".flag.text".  
  3. We need to "cat .flag", we will find the flag in the file"THM{WGET_WEBSERVER}".
 
- Task 5:Processes 101.
- Q:
+ **Task 5:Processes 101.**
+ Q:If we were to launch a process where the previous ID was "300", what would the ID of this new process be?
+ A:301.
+
+ Q:If we wanted to cleanly kill a process, what signal would we send it?
+ A:"SIGTERM".
+
+ Q:Locate the process that is running on the deployed instance (MACHINE_IP). What flag is given?
+ A:
+ 1. Type command "ps aux | less".
+ 2. Then we will find THM{PROCESSES}.
+
+ Q:What command would we use to stop the service "myservice"?
+ A:"systemctl stop my service".
+
+ Q:What command would we use to start the same service on the boot-up of the system?
+ A:"systemctl enable myservice".
+
+ Q:What command would we use to bring a previously backgrounded process back to the foreground?
+ A:"fg".
+
+ **Task 6:Maintaining Your System: Automation.**
+ Q:When will the crontab on the deployed instance (MACHINE_IP) run?
+ A:@reboot.
+
+ Q:What is the IP address of the user who visited the site?
+ A:10.9.232.111.
+
+ Q:What file did they access?
+ A:catsanddogs.jpg.  
