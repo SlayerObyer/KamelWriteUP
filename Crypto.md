@@ -63,4 +63,4 @@ A:
 1. Firstly use kalil linux.
 2. Secondly use this command"gpg --import tryhackme.key", Then you will find the key.
 3. Thirdly go message.gpg, we will find RSA key.
-4. Finall we dill find the Encrypted file is "Pineapple".
+4. Finally we will find the Encrypted file is "Pineapple".
