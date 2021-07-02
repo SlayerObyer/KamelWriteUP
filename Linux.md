@@ -1,6 +1,5 @@
-
 # Kali linux rooms.
-
+[Linux](./https://tryhackme.com/module/linux-fundamentals)
 ## Task: A Bit of Background on Linux.
 
 ### Q:What year was the first release of linux operating system?
