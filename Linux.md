@@ -7,8 +7,9 @@
  ### Q:What year was the first release of linux operating system?
  A:1991.
 
- ## Task: Running Your First few Commands.
- ### Q:If we wanted to output the text "TryHackMe", what would our command be?
+## Task: Running Your First few Commands.
+
+### Q:If we wanted to output the text "TryHackMe", what would our command be?
  A:Type command "echo TryHackMe" to print in the terminal.
 
  ### Q:What is the username of who you're logged in as on your deployed Linux machine?
@@ -101,7 +102,7 @@
  3. We need to "cat .flag", we will find the flag in the file"THM{WGET_WEBSERVER}".
 
  ## Task 5:Processes 101.
- 
+
  ### Q:If we were to launch a process where the previous ID was "300", what would the ID of this new process be?
  A:301.
 
