@@ -1,6 +1,6 @@
 
- # Kali linux rooms
- <span style="color: red;">Linux Fundementals#1</span> 
+ # Kali linux rooms.
+ 
 
  ## Task: A Bit of Background on Linux.
 
