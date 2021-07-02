@@ -57,3 +57,10 @@ A:
 1. Open john the ripper.
 2. Use this Command "/usr/share/john/ssh2john.py [downloaded file location] > [new file name]"
 3. john [new file name] --worldlist=[rockyou.txt file location].
+
+### Q15:You have the private key, and a file encrypted with the public key. Decrypt the file. What's the secret word?
+A:
+1. Firstly use kalil linux.
+2. Secondly use this command"gpg --import tryhackme.key", Then you will find the key.
+3. Thirdly go message.gpg, we will find RSA key.
+4. Finall we dill find the Encrypted file is "Pineapple".
