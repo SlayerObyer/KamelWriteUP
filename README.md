@@ -1,6 +1,6 @@
 # Rooms 
 
 [Linux](./Linux.html).
-s[Introductory](./IntroductoryNetworking.html).
+[Introductory](./IntroductoryNetworking.html).
 [Windows](./Windows.html).
 [Crypto](./Crypto.html)
